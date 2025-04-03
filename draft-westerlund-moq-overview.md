@@ -35,7 +35,7 @@ informative:
    I-D.ietf-webtrans-overview:
    I-D.jennings-moq-secure-objects:
    I-D.ietf-moq-loc:
-   I-D.jcenzano-moq-mi:
+   I-D.cenzano-moq-media-interop:
 
 normative:
 
